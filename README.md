@@ -3,6 +3,7 @@ An event-driven FTDI EVE2 widget library
 
 Work in progress
 
+```
 class widget
  public:
   fgColor
@@ -18,4 +19,5 @@ class widget
   attachTouchDown
   attachTouch
   attachTouchUp
-  
+  loop
+```
